@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: kwalletd\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-02-18 00:41+0000\n"
-"PO-Revision-Date: 2026-02-18 16:37+0300\n"
+"PO-Revision-Date: 2026-05-02 19:50+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 25.12.2\n"
+"X-Generator: Lokalize 25.12.3\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Serdar Soytetir, Volkan Gezer, Emir SARI"
+msgstr "Serdar SOYTETİR, Volkan GEZER, Emir SARI"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -696,7 +696,7 @@ msgstr ""
 #: kwalletbackend/kwalletbackend.cc:272
 #, kde-format
 msgid "Already open."
-msgstr "Halihazırda açık."
+msgstr "Hâlihazırda açık."
 
 #: kwalletbackend/kwalletbackend.cc:274
 #, kde-format
@@ -824,7 +824,7 @@ msgstr "Yeniden adlandırılacak girdi bulunamadı"
 #: kwalletd/secretserviceclient.cpp:776
 #, kde-format
 msgid "Entry named %1 in folder %2 and wallet %3 already exists."
-msgstr "%3 cüzdanındaki ve %2 klasöründeki %1 girdisi halihazırda var."
+msgstr "%3 cüzdanındaki ve %2 klasöründeki %1 girdisi hâlihazırda var."
 
 #: kwalletd/secretserviceclient.cpp:791 kwalletd/secretserviceclient.cpp:806
 #, kde-format
